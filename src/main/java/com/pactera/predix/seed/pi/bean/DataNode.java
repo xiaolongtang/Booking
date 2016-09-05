@@ -14,6 +14,7 @@ public class DataNode implements Serializable{
 	private Date timestamp;
 	private String quality;
 	private String deviceId;
+	private String nothing;
 
 	public String getDeviceId() {
 		return deviceId;

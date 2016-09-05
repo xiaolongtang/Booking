@@ -9,8 +9,8 @@
 		<version>1.3.0.RELEASE</version>
 	</parent>
 
-	<artifactId>pi-data</artifactId>
-	<groupId>com.pactera.predix.seed</groupId>
+	<artifactId>ms-data</artifactId>
+	<groupId>com.ge.predix</groupId>
 	<name>Spring Boot pi-data</name>
 	<description>Spring Boot pi-data</description>
 	<version>0.0.1</version>
